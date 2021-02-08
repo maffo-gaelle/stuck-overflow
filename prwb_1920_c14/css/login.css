@@ -1,0 +1,7 @@
+.erreurs{
+    margin-top: 4px;
+    color: red;
+}
+.fa fa-times :hover {
+     color: red;
+}

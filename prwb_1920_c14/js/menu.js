@@ -1,0 +1,3 @@
+$(function() {
+    $("#statistique-js").show();    
+});
